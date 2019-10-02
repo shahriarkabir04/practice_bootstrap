@@ -1,0 +1,35 @@
+section{
+	/*background-color: red;*/
+	border: 5px solid green;
+}
+.box{
+	height: 100px;
+	background-color: red;
+	margin-bottom: 5px;
+}
+.col{
+	background-color: #8D9296;
+	border:1px solid white;
+}
+.col-sm{
+	background-color: #8D9296;
+	border:1px solid white;
+}
+.col-5{
+	background-color: #8D9270;
+	border:1px solid white;
+}
+.col-6{
+	background-color: #8D9280;
+	border:1px solid white;
+}
+.col-4{
+	background-color: #8D9280;
+	border:1px solid white;
+}
+.col align-self-start{
+	background-color: #8D9280;
+}
+.row align-items-end{
+	background-color: #8D9260;
+}
